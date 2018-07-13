@@ -1,6 +1,6 @@
 // gfactor.cpp : Defines the entry point for the console application.
 //
-//Writen by Laurence, Apr. 2018
+//Written by Laurence, Apr. 2018
 #include<iostream>
 #include<string>
 #include<math.h>
